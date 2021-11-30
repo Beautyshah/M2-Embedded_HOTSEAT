@@ -5,7 +5,7 @@
  * @author Beauty Shah ()
  * @brief Configuration file to define pins and ports for the interfaced peripherals
  * @version 0.1
- * @date 2021-12-1
+ * @date 2021-11-30
  * 
  * @copyright Copyright (c) 2021
  * 
