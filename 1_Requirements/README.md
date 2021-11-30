@@ -10,6 +10,9 @@ Seat warmers were first introduced by Cadillac in 1966 to help with backaches. S
 
 Heated seats can make cars much more comfortable in the winter, or for those who often get cold even in the summer. The heater in most vehicles work well, but the car’s seat warmer is close to your body allowing you to warm up faster. In some cases, the seat warms up before the rest of the vehicle does.
 
+# **Features:**
+A new feature is seats that use a single component to heat and cool the seat. Due to the complexity of the system, all of the functions are computer controlled. This means that diagnostics and repairs are more in depth. However, this also means that DTCs may be set if there are any malfunctions. A scan tool will be required to pull these trouble codes and diagnose any issues.
+
 
  # **Functionality:**
 
@@ -59,7 +62,5 @@ The advanced technologies in automotive seat heaters are predicted to increase t
 - Within 10 minutes at 120 degrees an individual can experience third-degree burns. For those with the inability to feel the temperature at the time, this can prove even more dangerous. Those who have been diagnosed with conditions such as paralysis, diabetes, and neuropathy are less like to feel the heat in their lower extremities.
 - High electrical resistance could cause the heater pad in the seat to overheat.
 
-# **Features:**
-A new feature is seats that use a single component to heat and cool the seat. Due to the complexity of the system, all of the functions are computer controlled. This means that diagnostics and repairs are more in depth. However, this also means that DTCs may be set if there are any malfunctions. A scan tool will be required to pull these trouble codes and diagnose any issues.
 
 
