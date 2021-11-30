@@ -1,6 +1,6 @@
 /**
  * @file Activity2.h
- * @author beauty
+ * @author Beauty Shah
  * @Activity 2 header file
  * @version 0.1
  * @date 2021-12-1
