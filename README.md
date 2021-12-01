@@ -14,3 +14,5 @@
 # Code Grade
 ![code grade](https://api.codiga.io/project/30169/status/svg)
 
+# Codacy Badge
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/4ffe3fdba59c42d7b630d2175bd65b59)](https://www.codacy.com/gh/Beautyshah/M2-Embedded_HOTSEAT/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Beautyshah/M2-Embedded_HOTSEAT&amp;utm_campaign=Badge_Grade)
