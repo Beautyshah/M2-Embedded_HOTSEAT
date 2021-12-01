@@ -1,0 +1,8 @@
+3_Implementation/src/activity1.c:45:1: error: The code contains unhandled character(s) (character code=194). Neither unicode nor extended ascii is supported. [syntaxError]
+© 2021 GitHub, Inc.
+^
+3_Implementation/src/activity3.c:25:12: style: Unsigned expression 'temp' can't be negative so it is unnecessary to test it. [unsignedPositive]
+    if(temp>=0 && temp<=250){
+           ^
+nofile:0:0: information: Cppcheck cannot find all the include files (use --check-config for details) [missingInclude]
+
