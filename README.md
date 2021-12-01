@@ -9,7 +9,6 @@ The buttons have to be switched on before the app starts working.
 [![C/C++ CI](https://github.com/Beautyshah/M2-Embedded_HOTSEAT/actions/workflows/c-build.yml/badge.svg)](https://github.com/Beautyshah/M2-Embedded_HOTSEAT/actions/workflows/c-build.yml)
 
 # valgrind Badge
-
 [![Valgrind](https://github.com/Beautyshah/M2-Embedded_HOTSEAT/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/Beautyshah/M2-Embedded_HOTSEAT/actions/workflows/Valgrind.yml)
 
 # Code Quality Badge
@@ -23,3 +22,10 @@ The buttons have to be switched on before the app starts working.
 
 # Cpp-Check
 [![cppcheck-action-test](https://github.com/Beautyshah/M2-Embedded_HOTSEAT/actions/workflows/CodeQuality.yml/badge.svg)](https://github.com/Beautyshah/M2-Embedded_HOTSEAT/actions/workflows/CodeQuality.yml)
+
+## Challenges Faced and How Was It Overcome
+| No. | Challenge | Solution
+|-----|-----------|--------
+|1. | On the simulide latest version some sources are not available| By the help of connect class solved |
+|2. | issues in implementation | fixed them by making template in order
+|3. | Issues in workflows | fixed them by updating the path to all files correctly
