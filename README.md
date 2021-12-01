@@ -21,5 +21,5 @@ The buttons have to be switched on before the app starts working.
 # Codacy Badge
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/4ffe3fdba59c42d7b630d2175bd65b59)](https://www.codacy.com/gh/Beautyshah/M2-Embedded_HOTSEAT/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Beautyshah/M2-Embedded_HOTSEAT&amp;utm_campaign=Badge_Grade)
 
-# Cpp- Check
+# Cpp-Check
 [![cppcheck-action-test](https://github.com/Beautyshah/M2-Embedded_HOTSEAT/actions/workflows/CodeQuality.yml/badge.svg)](https://github.com/Beautyshah/M2-Embedded_HOTSEAT/actions/workflows/CodeQuality.yml)
