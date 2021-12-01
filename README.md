@@ -10,3 +10,7 @@
 
 # Code Quality Badge
 ![code quality score](https://api.codiga.io/project/30169/score/svg)
+
+# Code Grade
+![code grade](https://api.codiga.io/project/30169/status/svg)
+
