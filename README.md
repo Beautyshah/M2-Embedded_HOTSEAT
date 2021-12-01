@@ -7,3 +7,6 @@
 # valgrind Badge
 
 [![Valgrind](https://github.com/Beautyshah/M2-Embedded_HOTSEAT/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/Beautyshah/M2-Embedded_HOTSEAT/actions/workflows/Valgrind.yml)
+
+# Code Quality Badge
+![code quality score](https://api.codiga.io/project/30169/score/svg)
