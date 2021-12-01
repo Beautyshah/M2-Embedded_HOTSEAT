@@ -62,7 +62,7 @@ The advanced technologies in automotive seat heaters are predicted to increase t
 - Within 10 minutes at 120 degrees an individual can experience third-degree burns. For those with the inability to feel the temperature at the time, this can prove even more dangerous. Those who have been diagnosed with conditions such as paralysis, diabetes, and neuropathy are less like to feel the heat in their lower extremities.
 - High electrical resistance could cause the heater pad in the seat to overheat.
 
-### High Level Requirements:
+## High Level Requirements:
 | ID | Description | Status |
 |------| ------| ------|
 | HLR1 | When the two switches are closed, the first LED glows indicating the actuation of the system and the heater. | Implemented
@@ -70,7 +70,7 @@ The advanced technologies in automotive seat heaters are predicted to increase t
 |HLR3  | The hard disk must be 4 GB . |	Implemented
 |HLR4  | The web browser must be Microsoft Internet Explorer with a resolution of at least 800 \* 600. |	Implemented
 
-#### Low Level Requirements:
+## Low Level Requirements:
 
 | ID | Description | Status |
 |-------|------|------|
