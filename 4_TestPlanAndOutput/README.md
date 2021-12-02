@@ -6,7 +6,6 @@
 | H_01  |sensing                          |PASSED        |SUCCESS     | Scenario     |
 | H_03  |enable blinking led             |PASSED        |SUCCESS     | Boundary     |
 
-
 ## Low Level Test Plan
 | ID    | Description           | Expected O/P | Actual O/P | Type of Test | 
 |-------|-----------------------| ------------ | -----------| ------------ |
