@@ -7,9 +7,9 @@ The buttons have to be switched on before the app starts working.
 Folder               | Description|
 -------------------  | -----------------------------------------|
 |1_Requirements     | Documents Detailing requirements and research|
-|2_Architecture    | Documents Specifying design details|
+|2_Design   | Documents Specifying design details|
 |3_Implementation   | All Code and Documentation|
-|4_Images and output| Output Images|
+|4_Testplan and output| Output |
 
 ## Functions 
 | Feature Id | Feature |
