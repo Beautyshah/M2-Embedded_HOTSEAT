@@ -37,20 +37,20 @@ This application was developed in SimulIDE using CodeBlocks
 The advantage of such devices is that you can not wait until the entire salon warms up, and immediately go on business. After all, heating has a local effect, so they do their job in 2-5 minutes.
 
 **Weakness**
-- If you do not follow the recommendations and go too far with the temperature, this can lead to a decrease in the driver’s attentiveness, cause fatigue and headaches, and also increase the risk of catching a cold due to a violation of the body’s temperature regime
-- the power cord is plugged in only after you fix the cape
-- if you spill any liquid on the heater cover, immediately turn off the device
-- if you leave the car, do not leave the device turned on
-- you can not wash the capes, iron, maximum-shake
-- Use dry bags to store the heater
+-  If you do not follow the recommendations and go too far with the temperature, this can lead to a decrease in the driver’s attentiveness, cause fatigue and headaches, and also    increase the risk of catching a cold due to a violation of the body’s temperature regime
+-  the power cord is plugged in only after you fix the cape
+-  if you spill any liquid on the heater cover, immediately turn off the device
+-  if you leave the car, do not leave the device turned on
+-  you can not wash the capes, iron, maximum-shake
+-  Use dry bags to store the heater
 
 **Opportunities**
 The advanced technologies in automotive seat heaters are predicted to increase the growth of the market in the review period. The latest features like modern seat heaters like consistent and controlled warmth, heating level adjustment are attracting the consumers and are expected to propel the market growth. Growing demand for comfort and energy capabilities in vehicles is accelerating market growth. 
 
 **Threats**
-- A lack of regulation for these seats has left consumers more open to injuries
-- Within 10 minutes at 120 degrees an individual can experience third-degree burns. For those with the inability to feel the temperature at the time, this can prove even more     dangerous. Those who have been diagnosed with conditions such as paralysis, diabetes, and neuropathy are less like to feel the heat in their lower extremities
-- High electrical resistance could cause the heater pad in the seat to overheat
+-  A lack of regulation for these seats has left consumers more open to injuries
+-  Within 10 minutes at 120 degrees an individual can experience third-degree burns. For those with the inability to feel the temperature at the time, this can prove even more      dangerous. Those who have been diagnosed with conditions such as paralysis, diabetes, and neuropathy are less like to feel the heat in their lower extremities
+-  High electrical resistance could cause the heater pad in the seat to overheat
 
 ## High Level Requirements
 | ID | Description | Status |
