@@ -44,8 +44,8 @@ The advantage of such devices is that you can not wait until the entire salon wa
 -  you can not wash the capes, iron, maximum-shake
 -  Use dry bags to store the heater
 
-**Opportunities**
-The advanced technologies in automotive seat heaters are predicted to increase the growth of the market in the review period. The latest features like modern seat heaters like consistent and controlled warmth, heating level adjustment are attracting the consumers and are expected to propel the market growth. Growing demand for comfort and energy capabilities in vehicles is accelerating market growth. 
+**Opportunities** 
+ The advanced technologies in automotive seat heaters are predicted to increase the growth of the market in the review period. The latest features like modern seat heaters like consistent and controlled warmth, heating level adjustment are attracting the consumers and are expected to propel the market growth. Growing demand for comfort and energy capabilities in vehicles is accelerating market growth. 
 
 **Threats**
 -  A lack of regulation for these seats has left consumers more open to injuries
