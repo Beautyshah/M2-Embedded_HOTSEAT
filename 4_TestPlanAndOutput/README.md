@@ -12,4 +12,3 @@
 | L_01  |Open the app           | PASSED       |SUCESS      | Requirement  |
 | L_02  |View the board| PASSED       |SUCESS     | Scenario     |
 | L_03  |Reserve your possible seat     | PASSED       |SUCCESS     | Boundary |
-
