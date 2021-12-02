@@ -14,7 +14,6 @@
 ### Switch 1 ON Switch 2 OFF
 ![switch 1-ON switch 2-OFF](https://user-images.githubusercontent.com/94219763/144271239-09b60e61-b789-48ac-a420-ef052a052602.png)
 
-
 # Simulation Diagram
 ![Simulation Circuit](https://user-images.githubusercontent.com/94219763/144269515-734ea6bb-3d1b-4060-90e8-4644c5fa80e5.png)
 
