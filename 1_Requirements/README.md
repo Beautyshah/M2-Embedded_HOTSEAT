@@ -11,10 +11,10 @@ Heated seats can make cars much more comfortable in the winter, or for those who
 A new feature is seats that use a single component to heat and cool the seat. Due to the complexity of the system, all of the functions are computer controlled. This means that diagnostics and repairs are more in depth. However, this also means that DTCs may be set if there are any malfunctions. A scan tool will be required to pull these trouble codes and diagnose any issues.
 
  ## Functionality
-- When the two switches are closed, the first LED glows indicating the actuation of the system and the heater
-- Next the analog input from the temperature sensor is received and digitized
-- The digitized temperature input is visualized using Pulse Width Modulation
-- The corresponding temperature values based on the digitized temperature input is transmitted by the UART protocol. Here the data is displayed on the serial monitor
+-  When the two switches are closed, the first LED glows indicating the actuation of the system and the heater
+-  Next the analog input from the temperature sensor is received and digitized 
+-  The digitized temperature input is visualized using Pulse Width Modulation
+-  The corresponding temperature values based on the digitized temperature input is transmitted by the UART protocol. Here the data is displayed on the serial monitor
  
 ## 4 W's and 1 H
 ### Who
