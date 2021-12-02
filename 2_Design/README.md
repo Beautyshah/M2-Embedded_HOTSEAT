@@ -26,6 +26,3 @@
 
 # Rubrics
 ![Rubrics](https://user-images.githubusercontent.com/94219763/144271004-9daff0e7-01f3-4fcd-8aba-5b2c0313572c.png)
-
-
-
