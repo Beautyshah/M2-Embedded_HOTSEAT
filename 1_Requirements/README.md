@@ -15,12 +15,11 @@ Heated seats can make cars much more comfortable in the winter, or for those who
 A new feature is seats that use a single component to heat and cool the seat. Due to the complexity of the system, all of the functions are computer controlled. This means that diagnostics and repairs are more in depth. However, this also means that DTCs may be set if there are any malfunctions. A scan tool will be required to pull these trouble codes and diagnose any issues.
 
  ## Functionality
-
 - When the two switches are closed, the first LED glows indicating the actuation of the system and the heater.
 - Next the analog input from the temperature sensor is received and digitized.
 - The digitized temperature input is visualized using Pulse Width Modulation.
 - The corresponding temperature values based on the digitized temperature input is transmitted by the UART protocol. Here the data is displayed on the serial monitor.
-- 
+ 
 ## 4 W's and 1 H
 ### Who
 Every person who wants high temperature and in low temperature region people can be benified.
@@ -47,10 +46,10 @@ The advantage of such devices is that you can not wait until the entire salon wa
 
 **Weakness**
 - If you do not follow the recommendations and go too far with the temperature, this can lead to a decrease in the driver’s attentiveness, cause fatigue and headaches, and also increase the risk of catching a cold due to a violation of the body’s temperature regime.
-- the power cord is plugged in only after you fix the cape;
-- if you spill any liquid on the heater cover, immediately turn off the device;
-- if you leave the car, do not leave the device turned on;
-- you can not wash the capes, iron, maximum-shake;
+- the power cord is plugged in only after you fix the cape
+- if you spill any liquid on the heater cover, immediately turn off the device
+- if you leave the car, do not leave the device turned on
+- you can not wash the capes, iron, maximum-shake
 - Use dry bags to store the heater.
 
 **Opportunities**
