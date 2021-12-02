@@ -16,3 +16,10 @@ Folder               | Description|
 | -----------|---------|
 |F_01|  sensing if the person is seated  |
 |F_02| Blinking the LED  |
+
+## Challenges Faced and How Was It Overcome
+| No. | Challenge | Solution
+|-----|-----------|--------
+|1. | On the simulide latest version some sources are not available| By the help of connect class solved |
+|2. | issues in implementation | fixed them by making template in order
+|3. | Issues in workflows | fixed them by updating the path to all files correctly|
