@@ -2,45 +2,45 @@
 
 The Heat control system is basically used to control the temperature of a car seat. When a user or driver of the car gets seated on a car, the button sensor gets activated. After that, the user gets access to turn on the heater. The temperature sensor keeps monitoring the temperature and sends the analog value to the microcontroller. The microcontroller processes the analog input of the temperature sensor and outputs a temperature value through serial communication. All the activities of the activities of the control system are done on a microcontroller called Atmega328.
 
-# **Research:**
+## **Research:**
 
 Seat warmers were first introduced by Cadillac in 1966 to help with backaches. Some vehicles come with car seat warmers, which heat up the seat with the push of a button. Normally the buttons are located on the side of the driver and passenger door. In some vehicles, just the bottom of the seat warms up, where in others both the bottom and back warm up.
 
-# **Benefits:**
+## **Benefits:**
 
 Heated seats can make cars much more comfortable in the winter, or for those who often get cold even in the summer. The heater in most vehicles work well, but the car’s seat warmer is close to your body allowing you to warm up faster. In some cases, the seat warms up before the rest of the vehicle does.
 
-# **Features:**
+## **Features:**
 A new feature is seats that use a single component to heat and cool the seat. Due to the complexity of the system, all of the functions are computer controlled. This means that diagnostics and repairs are more in depth. However, this also means that DTCs may be set if there are any malfunctions. A scan tool will be required to pull these trouble codes and diagnose any issues.
 
 
- # **Functionality:**
+ ## **Functionality:**
 
 - When the two switches are closed, the first LED glows indicating the actuation of the system and the heater.
 - Next the analog input from the temperature sensor is received and digitized.
 - The digitized temperature input is visualized using Pulse Width Modulation.
 - The corresponding temperature values based on the digitized temperature input is transmitted by the UART protocol. Here the data is displayed on the serial monitor.
-# 4 W's and 1 H
+## 4 W's and 1 H
 
-## Who
+### Who
 Every person who wants high temperature and in low temperature region people can be benified.
 
-## What
+### What
 A Hotseat is a application where one can adjust their requied temperature to the seat to get comfort from the environment temperatures.
 
-## When
+### When
 
 Mostly in winter seasons and almost in every regions it can start now.
 
-## Where
+### Where
 
 It can be implemented in low temperature regions . 
 
-## How
+### How
 
 This application was developed in SimulIDE using CodeBlocks. 
 
-# **SWOT Analysis:**
+## **SWOT Analysis:**
 
 **Strength:**
 
