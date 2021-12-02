@@ -24,4 +24,4 @@ The buttons have to be switched on before the app starts working.
 |-----|-----------|--------
 |1. | On the simulide latest version some sources are not available| By the help of connect class solved |
 |2. | issues in implementation | fixed them by making template in order
-|3. | Issues in workflows | fixed them by updating the path to all files correctly
+|3. | Issues in workflows | fixed them by updating the path to all files correctly|
